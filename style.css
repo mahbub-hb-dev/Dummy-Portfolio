@@ -419,6 +419,9 @@ footer{
     #menubar2{
         display: flex;
     }
+    #menubar2 li{
+        margin: 0 1rem;
+    }
 }
 @media screen and (max-width: 400px) {}
 /* Responsive Ends Here */
