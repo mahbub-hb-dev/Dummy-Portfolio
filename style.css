@@ -377,6 +377,7 @@ footer{
     }
     header{
         flex-direction: column;
+        background-color: rgba(0, 0, 0, 0.7);
     }
     nav ul{
         padding-left: 2.5rem;
