@@ -416,8 +416,13 @@ footer{
     footer{
         flex-direction: column;
     }
+    footer p {
+        text-align: center;
+    }
     #menubar2{
         display: flex;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
     }
     #menubar2 li{
         margin: 0 1rem;
