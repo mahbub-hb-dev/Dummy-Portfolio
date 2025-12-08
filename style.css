@@ -124,6 +124,10 @@ nav li:hover{
 }
 .banner-description{
     font-size: 1.8rem;
+    .my-name {
+        color: tomato;
+        font-weight: bold;
+    }
 }
 #blog-banner-section aside{
     flex-basis: 50%;
